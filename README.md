@@ -126,6 +126,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## RoadMap
 
 💡[Frontend Developer].(https://roadmap.sh/frontend).
+💡[Backend Developer].(https://roadmap.sh/backend)).
+
 
 **[⬆ Back to Index](#content)**
 
